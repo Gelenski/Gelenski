@@ -1,4 +1,4 @@
-# About Me
+# About me
 
 - 👋 Hi, I’m @Gelenski
 - 👀 I’m interested in learning new coding languages
