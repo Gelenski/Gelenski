@@ -1,8 +1,8 @@
 # About me
 
-- 👋 Hi, I’m @Gelenski
-- 👀 I’m interested in learning new coding languages
-- 🌱 I’m currently learning Data Science and I'll learn HTML and CSS in my next course
+- 👋 Hi, I’m @Gelenski;
+- 👀 I’m interested in learning new coding languages;
+- 🌱 I’m currently learning C++;
 - 📫 My personal email: gelenskilucas@gmail.com, for contact (only English or Brazilian Portuguese).
 
 <!---
