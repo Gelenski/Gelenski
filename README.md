@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Lucas 👨‍💻
 
 Sou um estudante de **Engenharia de Software** apaixonado por programação e tecnologia. Atualmente, estou focado no desenvolvimento de aplicações web e na construção de soluções eficientes e escaláveis. Sempre em busca de aprimorar minhas habilidades em **algoritmos, estrutura de dados e boas práticas de desenvolvimento**, estou aberto a novas oportunidades e desafios na área da tecnologia.
+
 ---
 ### 🚀 Tecnologias & Ferramentas
 
