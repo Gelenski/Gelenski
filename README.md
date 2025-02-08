@@ -16,8 +16,8 @@ Estudante de **Engenharia de Software** apaixonado por tecnologia, aprendizado c
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SeuUsuario&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gelenski&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gelenski&theme=dracula" />
 </div>
 
 ---
