@@ -1,7 +1,6 @@
-## Olá! Eu sou o Lucas 🌟
+## Olá! Eu sou o Lucas 👨‍💻
 
-Estudante de **Engenharia de Software** apaixonado por tecnologia, aprendizado contínuo e desafios inovadores. Busco aprimorar minhas habilidades em desenvolvimento de software, finanças pessoais e economia. Além disso, gosto de explorar o mundo da fotografia, ciclismo, tênis de campo e musculação.
-
+Sou um estudante de **Engenharia de Software** apaixonado por programação e tecnologia. Atualmente, estou focado no desenvolvimento de aplicações web e na construção de soluções eficientes e escaláveis. Sempre em busca de aprimorar minhas habilidades em **algoritmos, estrutura de dados e boas práticas de desenvolvimento**, estou aberto a novas oportunidades e desafios na área da tecnologia.
 ---
 ### 🚀 Tecnologias & Ferramentas
 
