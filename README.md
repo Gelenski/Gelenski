@@ -7,17 +7,15 @@ Sou um estudante de **Engenharia de Software** apaixonado por programação e te
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 ### 📈 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gelenski&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gelenski&theme=dracula" />
-</div>
+  ![Gelenski's Stats](https://github-readme-stats.vercel.app/api?username=Gelenski&theme=dark&show_icons=true&hide_border=true&count_private=true)
+  ![Gelenski's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gelenski&theme=dark&hide_border=true)
 
 ---
 ### 🌍 Onde me encontrar
@@ -26,7 +24,7 @@ Sou um estudante de **Engenharia de Software** apaixonado por programação e te
 [![E-mail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gelenskilucas@gmail.com)
 
 ---
-### 🎯 Sobre Mim
+### ✉️ Sobre Mim
 
 - 🎓 Iniciando minha jornada em **Engenharia de Software**
 - 💻 Focado no aprendizado de **Desenvolvimento Web e Ciência de Dados**
