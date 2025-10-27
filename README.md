@@ -18,12 +18,6 @@ Sou um estudante de **Engenharia de Software** apaixonado por programação e te
   ![Gelenski's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gelenski&theme=dark&hide_border=true)
 
 ---
-### 🌍 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gelenski-b69aa62b5)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gelenskilucas/)
-[![E-mail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gelenskilucas@gmail.com)
-
----
 ### ✉️ Sobre Mim
 
 - 🎓 Iniciando minha jornada em **Engenharia de Software**
