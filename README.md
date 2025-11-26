@@ -1,9 +1,15 @@
-## Olá! Eu sou o Lucas 👨‍💻
+# Hello! I'm Lucas
 
-Sou um estudante de **Engenharia de Software** apaixonado por programação e tecnologia. Atualmente, estou focado no desenvolvimento de aplicações web e na construção de soluções eficientes e escaláveis. Sempre em busca de aprimorar minhas habilidades em **algoritmos, estrutura de dados e boas práticas de desenvolvimento**, estou aberto a novas oportunidades e desafios na área da tecnologia.
+I'm a **Software Engineering** student passionate about building clean, scalable, and well-structured applications.  
+Currently, I'm shifting my focus toward **freelance web development**, creating real-world solutions for clients and strengthening my experience with modern, production-ready technologies.
+
+My goal is to deliver high-quality software while continuously improving my skills in architecture, maintainability, and development best practices.
 
 ---
-### 🚀 Tecnologias & Ferramentas
+
+## Technologies & Tools
+
+**Languages & Frameworks**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -11,21 +17,33 @@ Sou um estudante de **Engenharia de Software** apaixonado por programação e te
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
----
-### 📈 Estatísticas do GitHub
-
-  ![Gelenski's Stats](https://github-readme-stats.vercel.app/api?username=Gelenski&theme=dark&show_icons=true&hide_border=true&count_private=true)
-  ![Gelenski's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gelenski&theme=dark&hide_border=true)
-
----
-### ✉️ Sobre Mim
-
-- 🎓 Iniciando minha jornada em **Engenharia de Software**
-- 💻 Focado no aprendizado de **Desenvolvimento Web e Ciência de Dados**
-- 🔎 Explorando **estruturas de dados, algoritmos e boas práticas de programação**
-- 🚀 Interessado em **construção de projetos open-source e contribuição para a comunidade**
-- 📖 Sempre aprendendo novas tecnologias e frameworks
+**What I'm currently working on**
+- Freelance web projects for small businesses and personal clients  
+- Web application architecture and scalable backend development  
+- Clean, maintainable code using SOLID principles and design patterns  
+- Component-driven frontend development and UI consistency  
+- API integration, validation, and security practices  
 
 ---
 
-⭐ **Se gostou do meu perfil, não esqueça de deixar uma estrela nos repositórios que achar interessante!** ⭐
+## GitHub Stats
+
+![Gelenski's Stats](https://github-readme-stats.vercel.app/api?username=Gelenski&theme=dark&show_icons=true&hide_border=true&count_private=true)  
+![Gelenski's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gelenski&theme=dark&hide_border=true)
+
+---
+
+## About Me
+
+- Currently working on **freelance web development projects**  
+- Building practical solutions using React, Node.js, and TypeScript  
+- Strengthening my understanding of software architecture and development methodologies  
+- Expanding my portfolio with real-world applications and client-driven projects  
+- Consistently learning new technologies, tools, and best practices to improve project quality  
+
+---
+
+## Support My Work
+
+If you found any of my projects interesting, feel free to leave a star.  
+It helps me keep improving and motivates me to build even better solutions.
